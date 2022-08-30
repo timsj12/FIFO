@@ -1,7 +1,5 @@
 /**
  * @author Tim Jarvis
- * Module 11
- * Due Date: 8/14/2022
  */
 
 import java.util.LinkedList;
