@@ -1,6 +1,3 @@
-/**
- * @author Tim Jarvis
- */
 
 import java.util.LinkedList;
 
